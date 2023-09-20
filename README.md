@@ -12,7 +12,7 @@ trabalho cadastro de endereço pelo README
 * [Autores](#%EF%B8%8F-autores)
 
 # 🚀 Projeto - Portifólio para escrita do README
-![imagem](img/imagem.pn)
+![imagem](img/imagem.png)
 
 ## 📋Descrição 
    
@@ -36,6 +36,6 @@ trabalho cadastro de endereço pelo README
 
 ## ✒️ Autores
 Maria Eduarda Simões Almeida 
-![imagem](img/autorasimões.jpeg)
+![imagem](img/autorasim%C3%B5es.jpg)
 
 
