@@ -4,12 +4,12 @@ trabalho cadastro de endereço pelo README
 
 # Indice
 
-* [Projeto - Portifólio para escrita do README]
-* [Descrição]
-* [Funcionalidades]
-* [Tecnologia ultilizadas]   
-* [Fontes consultadas]   
-* [Autores]
+* [Projeto - Portifólio para escrita do README](#-projeto---portif%C3%B3lio-para-escrita-do-readme)
+* [Descrição](#descri%C3%A7%C3%A3o)
+* [Funcionalidades](#-funcionalidades)
+* [Tecnologia ultilizadas](#%EF%B8%8F-tecnologia-ultilizadas)
+* [Fontes consultadas](#-fontes-consultadas)
+* [Autores](#%EF%B8%8F-autores)
 
 # 🚀 Projeto - Portifólio para escrita do README
 ![imagem](img/imagem.pn)
