@@ -27,7 +27,7 @@ trabalho cadastro de endereço pelo README
 
 ## 📄 Fontes consultadas 
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  />
           
 # https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
