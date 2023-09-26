@@ -29,8 +29,11 @@ trabalho cadastro de endereço pelo README
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  />
           
-
-# https://getbootstrap.com/docs/5.0/getting-started/introduction/
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+          
 
 # https://www.alura.com.br/artigos/escrever-bom-readme
 
