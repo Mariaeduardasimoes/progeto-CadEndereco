@@ -18,7 +18,7 @@ trabalho cadastro de endereço pelo README
    
 
 ## 🔧 Funcionalidades
-* funcionalidade:
+* 
 
 ### 🛠️ Tecnologia ultilizadas 
 * HTML 5
@@ -29,9 +29,9 @@ trabalho cadastro de endereço pelo README
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  />
           
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"width=50 />
           
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/>
           
           
 
