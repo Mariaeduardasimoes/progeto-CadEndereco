@@ -18,7 +18,7 @@ trabalho cadastro de endereço pelo README
    
 
 ## 🔧 Funcionalidades
-* cep:
+* As funcionalidades típicas de uma tela de cadastro de endereço incluem a capacidade de preencher e editar os campos de endereço, validar o formato do CEP, fornecer sugestões de endereço com base no CEP digitado, e permitir salvar ou atualizar os dados de endereço.
 
 ### 🛠️ Tecnologia ultilizadas 
 
