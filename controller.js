@@ -13,7 +13,7 @@ const eNumero = (numero) => /^[0-9]+$/.test(numero);
 const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 
 //Preenche campos do formulário
-const preencherformulario = (endereco) =>{
+const preencherFormulario = (endereco) =>{
     document.getElementById('rua').value = endereco.logradouro;
     document.getElementById('bairro').value = endereco.bairro;
     document.getElementById('cidade').value = endereco.localidade;
@@ -26,9 +26,10 @@ ultilizando a função do tipo assincrona
 const pesquisarcep = async() =>{
     limparFormulario();
     const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+    
     if(cepValido(cep.value)){
         const dados = await fetch(url);
-        const addres = await dados.json; 
+        const addres = await dados.json(); 
 
         if(addres.hasOwnProperty('erro')){
             alert('CEP não encontrado');
@@ -42,4 +43,4 @@ const pesquisarcep = async() =>{
 }
 
 //Adiciona um evento DOM, no input CEP 
-document.getElementById('cep').addEventListener('focusout',pesquisarcep);
+document.getElementById('cep').addEventListener('focusout', pesquisarcep);
