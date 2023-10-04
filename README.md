@@ -12,7 +12,7 @@ trabalho cadastro de endereço pelo README
 * [Autores](#%EF%B8%8F-autores)
 
 # 🚀 Projeto - Portifólio para escrita do README
-![imagem](gif/imagem.png)
+![imagem](gif/imagem.gif)
 
 ## 📋Descrição 
    
@@ -23,7 +23,7 @@ trabalho cadastro de endereço pelo README
 *As sua funcionalidade é mostra que quando o campo CEP não for respondido mostrar um compo escrito que está incorreto.
 ![imagem](gif/gifincorreto.gif)
 *As sua funcionalidade é mostra que quando o campo CEP não for respondido com o tanto de números certos mostrar um compo escrito que está incorreto.
-![imagem](gif/gifnaorespondido.)
+![imagem](gif/gifnaorespondido.gif)
 
 ### 🛠️ Tecnologia ultilizadas 
 
