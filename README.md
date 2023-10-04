@@ -12,7 +12,7 @@ trabalho cadastro de endereço pelo README
 * [Autores](#%EF%B8%8F-autores)
 
 # 🚀 Projeto - Portifólio para escrita do README
-![imagem](img/imagem.png)
+![imagem](gif/imagem.png)
 
 ## 📋Descrição 
    
