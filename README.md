@@ -12,7 +12,7 @@ trabalho cadastro de endereço utilizando API da [ViaCEP](http://viacep.com.br/)
 * [Autores](#%EF%B8%8F-autores)
 
 ## 📋Descrição 
-   
+   Criamos uma página responsiva em HTML e JavaScript, utilizando Bootstrap e expressões regulares para simplificar o código. O formulário possui campos de texto, números e opções selecionáveis. Além disso, trabalhamos na melhoria do README para a disciplina de programação Web I. O trabalho conjunto entre professor e os alunos resultou em uma página que se adapta ao dispositivo, com funcionalidades como limpeza do formulário, verificação de CEP, preenchimento automático e consumo de API assíncrona. 
 
 ## 🔧 Funcionalidades
 `FUNCIONALIDADE 1`:
