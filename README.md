@@ -29,6 +29,7 @@ trabalho cadastro de endereço utilizando API da [ViaCEP](http://viacep.com.br/)
 
 `FUNCIONALIDADE 4`:
 * As sua funcionalidade é mostra que quando o campo CEP for respondido com um endereço não corrrespondente .
+![imagem](gif/designgravacao.gif)
 
 ### 🛠️ Tecnologia ultilizadas 
 
